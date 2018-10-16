@@ -143,4 +143,7 @@ With Active Record's powerful association macros and instance methods, we can tr
 
 [collection_proxy]: http://edgeapi.rubyonrails.org/classes/ActiveRecord/Associations/CollectionProxy.html
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-displaying-associations-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-displaying-associations-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Displaying Associations Rails</p>
